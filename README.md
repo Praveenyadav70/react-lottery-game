@@ -8,14 +8,14 @@ A simple lottery game built with React.js where you can buy tickets and win if a
 - Responsive design
 
 ## Live Demo
-[Play Now](https://your-username.github.io/react-lottery-game)
+[Play Now](https://github.com/rahulpatle1308/react-lottery-game)
 
 ## Screenshot
 ![Screenshot](/screenshot.png)
 
 ## How to Run Locally
 ```bash
-git clone https://github.com/your-username/react-lottery-game.git
+git clone https://github.com/rahulpatle1308/react-lottery-game.git
 cd react-lottery-game
 npm install
 npm run dev
